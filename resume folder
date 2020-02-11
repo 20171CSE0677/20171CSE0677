@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<body bgcolor=" "
+<b><h1>SOWMIYA S</h1></b>
+<a href=""mailto:sowmiyasubramanium99@gmail.com">Email:sowmiyasubramanium99@gmail.com</a>
+<h2>+91-8892514642</h2>
+<br />
+<br />
+<hr>
+<h3>ACADEMIC RECORD</h3>
+<table border="15" bgcolor="white" cellpadding="10px" bordercolor="black" pixels="8">
+<caption align="bottom">Table-1</caption>
+<tr>
+<th>Name of program</th>
+<th>Board/Institution/University</th>
+<th>Principal subjects/specialization</th>
+<th>%Marks /CGPA</th>
+<th>Year of passing</th>
+</tr>
+<tr>
+<td>BTech</td>
+<td>Presidency university</td>
+<td>Computer science </td>
+<td>1st year 4.57<br />2nd year 4.75<br />3rd year 5.97<br />4th year awaited</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>State Board</td>
+<td>Narayana pu college</td>
+<td>Physics,chemistry,mathematics and computerscience</td>
+<td>67%</td>
+<td>2017</td>
+</tr>
+<tr>
+<td>State Board</td>
+<td>Shri maitri english school</td>
+<td>Science,Mathematics and languages</td>
+<td>75%</td>
+<td>2015</td>
+</tr>
+</table>
+<br />
+<br />
+<hr>
+<h3>TECHNICAL SKILLS</h3>
+<table border="15" bgcolor="white" cellpadding="10px" bordercolor="black" pixels="8">
+
+
+

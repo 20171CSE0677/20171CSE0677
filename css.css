@@ -1,0 +1,12 @@
+body{
+background-image:url("/home/Sem6B10/Downloads/dark_window_2-wallpaper-1920x1080.jpg");
+background-repeat:repeat;
+background-attachment:fixed;
+}
+h1{
+color:maroon;
+margin-left:40px;
+}
+p{
+color:blue;
+}

@@ -28,6 +28,24 @@ width:100x;
 img:hover
 {
 box-shadow:5px 10px ;
-border:3px dashed red;
+border:3px dashed red;                                                                                                                                                                                                  
+}
+
+p{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+border-color:yellow;
+}
+p{
+border-left:6px solid red;
+background-color:blue;
+}
+
+div{
+width:300px;
+margin:auto;
+border:1px solid red;
 }
 
